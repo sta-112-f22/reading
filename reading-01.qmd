@@ -1,0 +1,17 @@
+---
+title: "Reading Week 01"
+format: 
+  html:
+    theme: minty
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Optional:
+
+- Data Visualization: A Practical Introduction by Kieran Healy - Section [A.1.1 How to read an R help page](https://socviz.co/appendix.html#a-little-more-about-r)
+- [Teacup giraffes and statistics: Intro to R](https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html)
+
+[![](img/favicon.png){width="100" fig-align="right"}](https://bit.ly/sta-112-f22)
