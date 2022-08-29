@@ -1,0 +1,15 @@
+---
+title: "Reading 03"
+format: 
+  html:
+    theme: minty
+---
+
+
+## Required:
+
+- Stat2:
+    + Section 1.1 - The Simple Linear Regression Model
+    + Section 1.2 - Conditions for a Simple Linear Model
+
+[![](img/favicon.png){width="100" fig-align="right"}](https://bit.ly/sta-112-f22)
