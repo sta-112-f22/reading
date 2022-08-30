@@ -15,4 +15,13 @@ format:
 - [R for Data Science Chapter 3 - Data Visualization](https://r4ds.had.co.nz/data-visualisation.html)
 - [ggplot2 in 2](https://leanpub.com/ggplot2in2/c/sta-112-f22)
 
+## Cheatsheets
+
+- [Download Data Transformations Cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-transformation.pdf)
+
+![](https://raw.githubusercontent.com/rstudio/cheatsheets/main/pngs/data-transformation.png)
+
+- [Download ggplot2 Cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf)
+
+![](https://raw.githubusercontent.com/rstudio/cheatsheets/main/pngs/data-visualization.png)
 [![](img/favicon.png){width="100" fig-align="right"}](https://bit.ly/sta-112-f22)
