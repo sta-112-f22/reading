@@ -8,6 +8,7 @@ format:
 
 
 - Stat2:
+    + Section 2.1: Inference for Regression Slope
     + Section 2.2: Partitioning Variability—ANOVA
     + Section 2.3: Regression and Correlation
 
