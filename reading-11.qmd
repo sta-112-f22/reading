@@ -1,0 +1,14 @@
+---
+title: "Reading 11"
+format: 
+  html:
+    theme: minty
+---
+
+
+
+- Stat2:
+    + Section 2.2: Partitioning Variability—ANOVA
+    + Section 2.3: Regression and Correlation
+
+[![](img/favicon.png){width="100" fig-align="right"}](https://bit.ly/sta-112-f22)
