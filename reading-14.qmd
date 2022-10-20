@@ -1,0 +1,18 @@
+---
+title: "Reading 14"
+format: 
+  html:
+    theme: minty
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+* Stat2:
+   - Section 3.5: Correlated Predictors
+   - Section 3.6: Testing Subsets of Predictors
+    
+[![](img/favicon.png){width="100" fig-align="right"}](https://bit.ly/sta-112-f22)

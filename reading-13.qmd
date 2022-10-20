@@ -1,0 +1,18 @@
+---
+title: "Reading 13"
+format: 
+  html:
+    theme: minty
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+* Stat2:
+  - Section 3.1: Multiple Linear Regression Model  
+  - Section 3.2: Assessing a Multiple Regression Model
+    
+[![](img/favicon.png){width="100" fig-align="right"}](https://bit.ly/sta-112-f22)

@@ -1,0 +1,21 @@
+---
+title: "Reading 12"
+format: 
+  html:
+    theme: minty
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+- Stat2:
+    + Section 2.4: Intervals for Predictions
+    
+## Optional:
+
+- [A QQ-Plot Dissection Kit](https://seankross.com/2016/02/29/A-Q-Q-Plot-Dissection-Kit.html)
+    
+[![](img/favicon.png){width="100" fig-align="right"}](https://bit.ly/sta-112-f22)
