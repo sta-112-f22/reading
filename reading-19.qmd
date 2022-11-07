@@ -1,0 +1,19 @@
+---
+title: "Reading 19"
+format: 
+  html:
+    theme: minty
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+- Stat2:
+  + Section 9.3: Assessing the Logistic Regression Model
+  + Section 9.4: Formal Inference: Tests and Intervals
+  
+[![](img/favicon.png){width="100" fig-align="right"}](https://bit.ly/sta-112-f22)
